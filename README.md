@@ -229,4 +229,4 @@ VITE_DEBUG=true
 
 **Happy coding!** 🎉
 
-For backend documentation, see [../backend/README.md](../backend/README.md)
+For backend see [Backend](https://github.com/sarthakpanwar24/backend)
